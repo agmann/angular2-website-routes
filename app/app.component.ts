@@ -20,4 +20,7 @@ import {ExperimentsService} from './common/experiments.service';
   {path: '/experiments', component: ExperimentsComponent },
   {path: '/*',           component: HomeComponent }
 ])
-export class AppComponent {}
+export class AppComponent {
+  
+
+}
